@@ -1,3 +1,7 @@
+#NIM : K3524058
+#Nama : Muhammad Dava Syahputra
+
+
 from abc import ABC, abstractmethod
 from rich.table import Table
 from rich import print
